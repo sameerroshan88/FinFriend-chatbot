@@ -1,0 +1,31 @@
+streamlit==1.12.0
+google-generativeai==0.0.7
+gtts==2.2.3
+SpeechRecognition==3.8.1
+pymongo==3.12.1
+googletrans==4.0.0-rc1
+pyttsx3==2.90
+requests==2.26.0
+smtplib==0.0.1
+
+
+
+Explanation of Libraries:
+
+1. streamlit: Used for building the user interface of the chatbot.
+
+2. google-generativeai: Google Gemini API, which powers the AI for generating responses.
+
+3. gtts (Google Text-to-Speech): Converts the chatbot responses from text to speech.
+
+4. SpeechRecognition: Enables speech-to-text conversion to process voice commands.
+
+5. pymongo: Connects to and interacts with MongoDB, where the chatbot stores chat history.
+
+6. googletrans: Used for language translation in the chatbot.
+
+7. pyttsx3: Another text-to-speech library in case gTTS has issues with specific language settings.
+
+8. requests: Allows HTTP requests (if needed for API communication or services).
+
+9. smtplib: Library to handle sending emails (SMTP) for the chatbot's email functionality
