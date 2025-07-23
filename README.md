@@ -32,3 +32,6 @@ Admin Panel
 - Manage user access
 - Monitor uploaded documents
 - Configure NewsAPI settings
+
+🎥 Demo Video
+[![Watch the videohttps://img.youtube.com/vi/aTvEhvBkqiY/maxresdefault.jpg)](https://youtu.be/tS29kTOn9U4 FinFriend-chatbot FinSight AI
